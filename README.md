@@ -35,6 +35,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moonglaives)
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moonglaives&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
