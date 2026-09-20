@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Theodor Plenkow!
+# 👋 Hello / こんにちは / Привет
 
+> I'm **Theodor Plenkow**!
 > **C# / .NET Developer** based in Kirov, Russia 🇷🇺  
 > Currently focused on software development, building desktop applications, and sharpening my engineering skills.
 
