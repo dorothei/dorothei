@@ -25,8 +25,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonglaives&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonglaives&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
 ---
