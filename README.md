@@ -20,22 +20,12 @@
 - 🧠 Sharpening my algorithmic thinking on **Codewars** and **Exercism**
 
 ### 📊 GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dorothei&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=dorothei&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dorothei&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dorothei&langs_count=5&theme=dark_github)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorothei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorothei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=dorothei&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dorothei&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorothei&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 📫 Connect with Me
@@ -43,9 +33,6 @@
 <p align="center">
   <a href="https://t.me/moonglaives">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/dorothei">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
