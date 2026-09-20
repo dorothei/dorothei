@@ -3,8 +3,6 @@
 > **C# / .NET Developer** based in Kirov, Russia 🇷🇺  
 > Currently focused on software development, building desktop applications, and sharpening my engineering skills.
 
----
-
 ### 🛠 Tech Stack
 
 | Category | Technologies |
@@ -13,8 +11,6 @@
 | **UI Development** | ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) `XAML` |
 | **Testing** | `xUnit` |
 | **Secondary Skills** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
 
 ### 🚀 Journey & Practice
 
