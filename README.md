@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dorothei&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=dorothei&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dorothei&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dorotei&langs_count=5&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dorothei&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dorothei&langs_count=5&theme=dark_github)
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=dorothei&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
